@@ -1288,9 +1288,9 @@ function Contact() {
 
             <div className="flex flex-col gap-4 mb-8">
               {[
-                { icon: Mail, label: "hello@akaalnexus.com" },
-                { icon: Phone, label: "+1 (888) 826-2539" },
-                { icon: MapPin, label: "San Francisco · Dubai · Singapore" },
+                { icon: Mail, label: "chandrap@akaalnexus.com" },
+                { icon: Phone, label: "+91 9440419583" },
+                { icon: MapPin, label: "India" },
                 { icon: MessageCircle, label: "WhatsApp available 24/7" },
               ].map((c) => (
                 <div key={c.label} className="flex items-center gap-3">
